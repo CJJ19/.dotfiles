@@ -1,0 +1,6 @@
+git config --global user.name "Clementine Jordan"
+git config --global user.email "cjj19@email.sc.edu"
+# GitHub.com
+Host github.com
+  Preferredauthentications publickey
+  IdentityFile ~/.ssh/github/id_ed25519
